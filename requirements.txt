@@ -3,3 +3,5 @@ numpy
 matplotlib
 pandas
 ipykernel
+scipy
+pooch
