@@ -6,3 +6,4 @@ ipykernel
 scipy
 pooch
 ipywidgets
+tensorflow_datasets
