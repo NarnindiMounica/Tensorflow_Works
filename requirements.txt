@@ -8,3 +8,4 @@ pooch
 ipywidgets
 tensorflow_datasets
 keras_nlp
+tensorflow-text

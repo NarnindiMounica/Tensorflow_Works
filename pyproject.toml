@@ -15,4 +15,5 @@ dependencies = [
     "scipy>=1.17.0",
     "tensorflow>=2.20.0",
     "tensorflow-datasets>=4.9.9",
+    "tensorflow-text>=2.20.0",
 ]
