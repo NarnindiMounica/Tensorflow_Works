@@ -8,3 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
+10-Sequence_Models/seq_env

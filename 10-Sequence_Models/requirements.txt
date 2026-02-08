@@ -1,0 +1,14 @@
+tensorflow==2.10.0
+numpy 
+matplotlib
+pandas
+ipykernel
+scipy
+pooch
+ipywidgets
+tensorflow_datasets
+keras_nlp
+tensorflow-text==2.10.0
+
+#installing tensorflow==2.10.0 and tensorflow-text==2.10.0 with python 3.10
+#pip install tensorflow==2.10.0 keras-nlp==0.4.1 tensorflow-datasets==4.8.3
