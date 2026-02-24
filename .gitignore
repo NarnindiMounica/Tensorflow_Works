@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 10-Sequence_Models/seq_env
+"15-Image_Classifier_For_SVHN_Dataset/data/" 
